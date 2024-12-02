@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prajal Maharjan</h1>
-<h3 align="center">A passionate software developer from Nepal</h3>
+<h1>Hi 👋, I'm Prajal Maharjan</h1>
+<h3 >A passionate software developer from Nepal</h3>
 
 - 🌱 I’m currently learning **NodeJs, NextJs, React Native and PostgreSQL**
 
