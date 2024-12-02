@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajal Maharjan</h1>
 <h3 align="center">A passionate Software developer from Nepal</h3>
 
-- 🔭 I’m currently working on [Business management System](loading)
-
 - 🌱 I’m currently learning **NodeJs with NextJs**
 
 - 📫 How to reach me **prajalmhrzn@gmail.com**
