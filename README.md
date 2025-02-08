@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Prajal Maharjan</h1>
 <h3 >A passionate software developer from Nepal</h3>
 
-- 🌱 I’m currently learning **NodeJs, NextJs, React Native and PostgreSQL**
+- 🌱 I’m currently learning **NodeJs, NextJs and PostgreSQL**
 
 - 📫 How to reach me **prajalmhrzn@gmail.com**
 
