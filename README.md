@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Prajal Maharjan</h1>
 <h3 >A passionate software developer from Nepal</h3>
 
-- 🌱 I’m currently learning **NodeJs, NextJs and PostgreSQL**
+- I’m currently learning **NodeJs, NextJs and PostgreSQL**
 
-- 📫 How to reach me **prajalmhrzn@gmail.com**
+- How to reach me **prajalmhrzn@gmail.com**
 
-- ⚡ Fun fact **I am a quick learner.*
+- Fun fact **I am a quick learner.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
