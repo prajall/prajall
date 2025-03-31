@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Prajal Maharjan</h2>
-<h3 >A Ful Stack software developer from Nepal</h3>
+<h3 >A Ful Stack software developer from Kathmandu, Nepal</h3>
 
 - I’m currently learning **NodeJs, NextJs and PostgreSQL**
 
